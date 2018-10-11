@@ -3,11 +3,7 @@ import static org.junit.Assert.*;
 import helpBookseller.HelpBook;
 import org.junit.Test;
 
-public class Testing {
-
-    public static void main(String[] args) {
-
-    }
+public class TestHelpBook {
 
     @Test
     public void testHelpBook() {
