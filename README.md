@@ -5,4 +5,5 @@ Contains Katas:
   - Mexican Wave
   - Write number in expanded form
   - PaginationHelper
+  - Data reverse
   - more to come soon
