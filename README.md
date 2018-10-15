@@ -6,4 +6,5 @@ Contains Katas:
   - Write number in expanded form
   - PaginationHelper
   - Data reverse
+  - Zero or Infinity
   - more to come soon
