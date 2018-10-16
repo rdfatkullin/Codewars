@@ -7,4 +7,5 @@ Contains Katas:
   - PaginationHelper
   - Data reverse
   - Zero or Infinity
+  - Next Smaller number
   - more to come soon
